@@ -13,20 +13,51 @@ class Program
     static void Main()
     {
         List<Urun> depo = new List<Urun>();
-        double kullaniciParasi = 5000;
+        double kullaniciParasi = 25000; //Valla iyi para hocam 
 
         while (true)
         {
-            Console.WriteLine("\nDepo Sistemi Menüsü:");
-            Console.WriteLine("1 - Ürün Ekle");
-            Console.WriteLine("2 - Ürün Satış");
-            Console.WriteLine("3 - Depodaki Ürünleri Görüntüle");
+            Console.WriteLine("\nAna Menü:");
+            Console.WriteLine("1 - Ürün Menüsü");
+            Console.WriteLine("2 - Diğer İşlemler");
             Console.WriteLine("0 - Çıkış");
             Console.Write("Seçiminiz: ");
 
             if (!int.TryParse(Console.ReadLine(), out int secim))
             {
-                Console.WriteLine("Geçersiz giriş! Lütfen bir sayı girin.");
+                YazdirMesaj("Geçersiz seçim. Lütfen tekrar deneyin.", ConsoleColor.Red);
+                continue;
+            }
+
+            switch (secim)
+            {
+                case 1:
+                    UrunMenusu(depo, ref kullaniciParasi);
+                    break;
+                case 2:
+                    DigerIslemler(depo, ref kullaniciParasi);
+                    break;
+                case 0:
+                    return;
+                default:
+                    break;
+            }
+        }
+    }
+
+    static void UrunMenusu(List<Urun> depo, ref double kullaniciParasi)
+    {
+        while (true)
+        {
+            Console.WriteLine("\nÜrün Menüsü:");
+            Console.WriteLine("1 - Ürün Ekle");
+            Console.WriteLine("2 - Ürün Satış");
+            Console.WriteLine("0 - Ana Menüye Dön");
+            Console.Write("Seçiminiz: ");
+
+            if (!int.TryParse(Console.ReadLine(), out int secim))
+            {
+                YazdirMesaj("Geçersiz seçim. Lütfen tekrar deneyin.", ConsoleColor.Red);
                 continue;
             }
 
@@ -38,14 +69,41 @@ class Program
                 case 2:
                     UrunSatis(depo, ref kullaniciParasi);
                     break;
-                case 3:
-                    DepoyuGoruntule(depo);
-                    break;
                 case 0:
-                    Console.WriteLine("Programdan çıkılıyor.");
                     return;
                 default:
-                    Console.WriteLine("Geçersiz seçim. Lütfen tekrar deneyin.");
+                    break;
+            }
+        }
+    }
+
+    static void DigerIslemler(List<Urun> depo, ref double kullaniciParasi)
+    {
+        while (true)
+        {
+            Console.WriteLine("\nDiğer İşlemler:");
+            Console.WriteLine("1 - Depodaki Ürünleri Görüntüle");
+            Console.WriteLine("2 - Bakiye Görüntüle");
+            Console.WriteLine("0 - Ana Menüye Dön");
+            Console.Write("Seçiminiz: ");
+
+            if (!int.TryParse(Console.ReadLine(), out int secim))
+            {
+                YazdirMesaj("Geçersiz seçim. Lütfen tekrar deneyin.", ConsoleColor.Red);
+                continue;
+            }
+
+            switch (secim)
+            {
+                case 1:
+                    DepoyuGoruntule(depo);
+                    break;
+                case 2:
+                    Console.WriteLine($"Mevcut bakiye: {kullaniciParasi} TL");
+                    break;
+                case 0:
+                    return;
+                default:
                     break;
             }
         }
@@ -54,90 +112,92 @@ class Program
     static void UrunEkle(List<Urun> depo)
     {
         Console.Write("Ürün adı: ");
-        string? adi = Console.ReadLine();
+        string adi = Console.ReadLine();
         if (string.IsNullOrWhiteSpace(adi))
         {
-            Console.WriteLine("Ürün adı boş olamaz.");
+            YazdirMesaj("Ürün adı boş olamaz!", ConsoleColor.Red);
             return;
         }
 
         Console.Write("Birim fiyatı: ");
         if (!double.TryParse(Console.ReadLine(), out double birimFiyat) || birimFiyat <= 0)
         {
-            Console.WriteLine("Geçersiz fiyat.");
+            YazdirMesaj("Geçersiz fiyat!", ConsoleColor.Red);
             return;
         }
 
         Console.Write("Adet: ");
         if (!int.TryParse(Console.ReadLine(), out int adet) || adet <= 0)
         {
-            Console.WriteLine("Geçersiz adet.");
+            YazdirMesaj("Geçersiz adet!", ConsoleColor.Red);
             return;
         }
 
         depo.Add(new Urun { Adi = adi, BirimFiyat = birimFiyat, Adet = adet });
-        Console.WriteLine($"{adi} adlı ürün başarıyla eklendi.");
+        YazdirMesaj($"{adi} adlı ürün başarıyla eklendi.", ConsoleColor.Green);
     }
 
     static void UrunSatis(List<Urun> depo, ref double kullaniciParasi)
     {
         if (depo.Count == 0)
         {
-            Console.WriteLine("Depo boş! Satış yapılamaz.");
+            YazdirMesaj("Depo boş, satış yapılamaz!", ConsoleColor.Red);
             return;
         }
 
         Console.Write("Satış yapmak istediğiniz ürünün adı: ");
-        string? urunAdi = Console.ReadLine();
-        if (string.IsNullOrWhiteSpace(urunAdi))
-        {
-            Console.WriteLine("Geçersiz ürün adı.");
-            return;
-        }
-
+        string urunAdi = Console.ReadLine();
         var secilenUrun = depo.Find(u => u.Adi.Equals(urunAdi, StringComparison.OrdinalIgnoreCase));
+
         if (secilenUrun == null || secilenUrun.Adet <= 0)
         {
-            Console.WriteLine("Bu ürün depoda bulunamadı veya stoğu kalmadı.");
+            YazdirMesaj("Bu ürün depoda bulunamadı veya stoğu kalmadı.", ConsoleColor.Red);
             return;
         }
 
         Console.Write("Kaç adet satmak istiyorsunuz? ");
         if (!int.TryParse(Console.ReadLine(), out int adet) || adet <= 0)
         {
-            Console.WriteLine("Geçersiz adet.");
+            YazdirMesaj("Geçersiz adet!", ConsoleColor.Red);
+            return;
+        }
+
+        if (adet > secilenUrun.Adet)
+        {
+            YazdirMesaj("Depoda bu kadar ürün yok!", ConsoleColor.Red);
             return;
         }
 
         double toplamTutar = secilenUrun.BirimFiyat * adet;
-        if (adet > secilenUrun.Adet)
+        if (toplamTutar > kullaniciParasi)
         {
-            Console.WriteLine("Depoda bu kadar ürün yok!");
+            YazdirMesaj("Yetersiz bakiye.", ConsoleColor.Red);
+            return;
         }
-        else if (toplamTutar > kullaniciParasi)
-        {
-            Console.WriteLine("Yetersiz bakiye.");
-        }
-        else
-        {
-            secilenUrun.Adet -= adet;
-            kullaniciParasi -= toplamTutar;
-            Console.WriteLine($"{adet} adet {urunAdi} satıldı. Kalan paranız: {kullaniciParasi} TL.");
-        }
+
+        secilenUrun.Adet -= adet;
+        kullaniciParasi -= toplamTutar;
+        YazdirMesaj($"{adet} adet {urunAdi} başarıyla satıldı. Kalan bakiye: {kullaniciParasi} TL.", ConsoleColor.Green);
     }
 
     static void DepoyuGoruntule(List<Urun> depo)
     {
         if (depo.Count == 0)
         {
-            Console.WriteLine("Depo boş!");
+            YazdirMesaj("Depo boş!", ConsoleColor.Red);
+            return;
         }
-        else
+
+        foreach (var urun in depo)
         {
-            foreach (var urun in depo)
-            {
-                Console.WriteLine($"- {urun.Adi}: {urun.Adet} adet, {urun.BirimFiyat} TL/birim");
-            }
+            Console.WriteLine($"- {urun.Adi}: {urun.Adet} adet, {urun.BirimFiyat} TL/birim");
         }
+    }
+
+    static void YazdirMesaj(string mesaj, ConsoleColor renk)
+    {
+        Console.ForegroundColor = renk;
+        Console.WriteLine(mesaj);
+        Console.ResetColor();
     }
 }
