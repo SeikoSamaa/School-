@@ -1,0 +1,42 @@
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\bin\Debug\net8.0\proje3.exe
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\bin\Debug\net8.0\proje3.deps.json
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\bin\Debug\net8.0\proje3.runtimeconfig.json
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\bin\Debug\net8.0\proje3.dll
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\bin\Debug\net8.0\proje3.pdb
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\proje3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\proje3.AssemblyInfoInputs.cache
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\proje3.AssemblyInfo.cs
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\proje3.csproj.CoreCompileInputs.cache
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\proje3.dll
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\refint\proje3.dll
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\proje3.pdb
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\proje3.genruntimeconfig.cache
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje3\obj\Debug\net8.0\ref\proje3.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\proje3.exe
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\proje3.deps.json
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\proje3.runtimeconfig.json
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\proje3.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\proje3.pdb
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\proje3.AssemblyInfoInputs.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\proje3.AssemblyInfo.cs
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\proje3.csproj.CoreCompileInputs.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\proje3.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\refint\proje3.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\proje3.pdb
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\proje3.genruntimeconfig.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ref\proje3.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\bin\Debug\net8.0\proje3.exe
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\bin\Debug\net8.0\proje3.deps.json
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\bin\Debug\net8.0\proje3.runtimeconfig.json
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\bin\Debug\net8.0\proje3.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\bin\Debug\net8.0\proje3.pdb
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\proje3.AssemblyInfoInputs.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\proje3.AssemblyInfo.cs
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\proje3.csproj.CoreCompileInputs.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\proje3.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\refint\proje3.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\proje3.pdb
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\proje3.genruntimeconfig.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Root Order\obj\Debug\net8.0\ref\proje3.dll
