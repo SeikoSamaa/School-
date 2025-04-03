@@ -1,0 +1,56 @@
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\bin\Debug\net8.0\VeriYapilari.exe
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\bin\Debug\net8.0\VeriYapilari.deps.json
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\bin\Debug\net8.0\VeriYapilari.runtimeconfig.json
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\bin\Debug\net8.0\VeriYapilari.dll
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\bin\Debug\net8.0\VeriYapilari.pdb
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\VeriYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\VeriYapilari.AssemblyInfoInputs.cache
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\VeriYapilari.AssemblyInfo.cs
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\VeriYapilari.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\VeriYapilari.dll
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\refint\VeriYapilari.dll
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\VeriYapilari.pdb
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\VeriYapilari.genruntimeconfig.cache
+C:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapilari\obj\Debug\net8.0\ref\VeriYapilari.dll
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\bin\Debug\net8.0\VeriYapilari.exe
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\bin\Debug\net8.0\VeriYapilari.deps.json
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\bin\Debug\net8.0\VeriYapilari.runtimeconfig.json
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\bin\Debug\net8.0\VeriYapilari.dll
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\bin\Debug\net8.0\VeriYapilari.pdb
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\VeriYapilari.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\VeriYapilari.AssemblyInfoInputs.cache
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\VeriYapilari.AssemblyInfo.cs
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\VeriYapilari.csproj.CoreCompileInputs.cache
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\VeriYapilari.dll
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\refint\VeriYapilari.dll
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\VeriYapilari.pdb
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\VeriYapilari.genruntimeconfig.cache
+c:\Users\İbrahim Demir\Desktop\uygulamlar\belgeler\VeriYapıları\proje1\obj\Debug\net8.0\ref\VeriYapilari.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\VeriYapilari.exe
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\VeriYapilari.deps.json
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\VeriYapilari.runtimeconfig.json
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\VeriYapilari.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\VeriYapilari.pdb
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\VeriYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\VeriYapilari.AssemblyInfoInputs.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\VeriYapilari.AssemblyInfo.cs
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\VeriYapilari.csproj.CoreCompileInputs.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\VeriYapilari.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\refint\VeriYapilari.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\VeriYapilari.pdb
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\VeriYapilari.genruntimeconfig.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\ref\VeriYapilari.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\bin\Debug\net8.0\VeriYapilari.exe
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\bin\Debug\net8.0\VeriYapilari.deps.json
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\bin\Debug\net8.0\VeriYapilari.runtimeconfig.json
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\bin\Debug\net8.0\VeriYapilari.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\bin\Debug\net8.0\VeriYapilari.pdb
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\VeriYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\VeriYapilari.AssemblyInfoInputs.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\VeriYapilari.AssemblyInfo.cs
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\VeriYapilari.csproj.CoreCompileInputs.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\VeriYapilari.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\refint\VeriYapilari.dll
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\VeriYapilari.pdb
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\VeriYapilari.genruntimeconfig.cache
+C:\Users\CoolG\OneDrive\Masaüstü\AllOf\Etc\Vsc\Yeni klasör\Indis Eleman Silme\obj\Debug\net8.0\ref\VeriYapilari.dll
